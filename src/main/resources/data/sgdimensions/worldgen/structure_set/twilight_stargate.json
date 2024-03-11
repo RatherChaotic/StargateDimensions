@@ -1,0 +1,17 @@
+{
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spread_type": "linear",
+      "salt": 42194986,
+      "spacing": 96,
+      "separation": 64,
+      "frequency": 0.80
+    },
+    "structures": [
+      {
+        "structure": "sgdimensions:twilight_stargate",
+        "weight": 1
+      }
+    ]
+  }
+  

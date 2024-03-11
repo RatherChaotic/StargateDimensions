@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.sgdimensions.choris_ilio",
+	"symbols": "sgjourney:terra",
+	"symbol_prefix": 14,
+	"extragalactic_address": {"address": [14, 12, 16, 23, 24, 31, 33], "randomizable": true},
+	"point_of_origin": "sgjourney:terra",
+	"dimensions":
+	[
+		"twilightforest:twilight_forest"
+	]
+}
