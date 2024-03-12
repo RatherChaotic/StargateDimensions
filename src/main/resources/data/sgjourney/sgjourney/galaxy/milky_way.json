@@ -35,6 +35,10 @@
         {
             "solar_system": "sgdimensions:choris_ilio",
             "address": {"address": [21, 23, 24, 26, 27, 28], "randomizable": true}
-        }
+        },
+		{
+			"solar_system": "sgdimensions:vathy_skotadi",
+			"address": {"address": [20, 4, 6, 8, 14, 11], "randomizable": true}
+		}
 	]
 }

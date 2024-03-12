@@ -1,0 +1,11 @@
+{
+  "name": "solar_system.sgdimensions.choris_ilio",
+  "symbols": "sgjourney:terra",
+  "symbol_prefix": 1,
+  "extragalactic_address": {"address": [1, 2, 8, 9, 19, 22, 25], "randomizable": true},
+  "point_of_origin": "sgjourney:terra",
+  "dimensions":
+  [
+    "deeperdarker:otherside"
+  ]
+}
